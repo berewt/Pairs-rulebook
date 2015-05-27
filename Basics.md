@@ -49,7 +49,7 @@ tourner le rôle de donneur. La position du donneur est en fait sans importance
 puisque le premier joueur sera déterminé par la plus petite carte.
 
 
-> Score Limite
+> Scores Limites
 >
 > :  Le score à atteindre pour perdre dépend du nombre de joueurs :
 >
@@ -59,7 +59,102 @@ puisque le premier joueur sera déterminé par la plus petite carte.
 >
 >  Table: (la formule: divisez 60 points par le nombre de joueurs, ajoutez 1)
 
-À chaque tour
+**À chaque tour**
 
-:   À votre tour, vous avez deux choix : vous pouvez continuez (piocher une crate)
+:   À votre tour, vous avez deux choix : vous pouvez *continuer* (piocher une
+carte) ou *passer*. Si vous obtenez une paire ou si vous passez, la manche est
+finie et vous marquez des points. Sinon, c'est au joueur à votre gauche de
+jouer.
+
+**Faire une paire**
+
+:   Quand vous piochez, vous espérez ne pas faire de paire (deux cartes de même
+valeur). Si vous obtenez une paire, vous marquez autant de point que sa valeur.
+Par exemple, si vous obtenez une paire de 8, vous marquez 8 points. Gardez une
+de ces cartes face visible, pour comptez vos points.
+
+**Passer**
+
+:   Vous pouvez bandonner (passer) au lieu de piocher une carte. Quand vous
+faites cela, vous prenez *la plus petite carte en jeu* et vous la gardez pour
+marquer ses points. Vous pouvez choisir cette carte parmi la pile de tous les
+joueurs, pas uniquement la votre.
+
+    *Passer peut être un meilleur choix que de continuer, en fonction des
+risques d'obtenir une paire, mais c'est à vous de décider quand le faire.*
+
+**Fin de manche**
+
+:   Dès qu'un joueur obtient une paire ou passe, la manche s'achève. Défaussez
+toutes les cartes en jeu, face cachées, au centre de la table et distribuez pour
+la manche suivante.
+
+    Les joueurs gardent leurs cartes-score de côté, face visible. Ces cartes ne
+retournent pas dans le paquet avant la fin de la partie.
+
+**Remélanger**
+
+: Quand vous atteignez la fin du paquet, remélangez la défausse. Mettez le jeu
+pause, mélangez et reprnez la partie où vous l'avez laissée. Pensez bien à
+brûler cinq cartes à chaque fois que vous mélangez.
+
+**Perdre la partie**
+
+: Il n'y a pas de vainqueur, juste un perdant. La partie prend fin quand un
+joueur atteint le score limite (voir le tableau des scores limites ci-dessus).
+Par exemple, dans une partie à 4 joueurs, le perdant est le premier joueur à
+marquer 16 points.
+
+## Exemple de jeu
+
+Regardez l'example de partie en page 6. Le nom complet des joueur est Alice,
+Bernard, Claude, Denis et Eric (A, B, C, D et e). Voilà un exemple des permiers
+tours de jeu.
+
+**Denis commence**
+
+:   Comme il a la plus petite carte, un 6, Denis commence. Il peut choisir de
+*passer pour prendre automatiquement 6 points*, ou *continuer* et *risquer* de
+prendre 6 points.
+
+    Naturellement, il continue. (C'est en général un choix évident au premier
+tour, à moins de commencer avec plusieurs cartes, suite à une égalité.) Denis
+pioche un 8, il évite donc d'obtenir une paire. Hourra !
+
+**Le tour d'Éric**
+
+: On tourne dans le sens horaire. Éric peut continuer sur son 9, ou passer pour
+6 points. Passer pour un 6 semble cher payé et continuer pour un 9 n'est pas si
+risqué. (Il reste seulement huit 9 dans le paquet.) Donc Éric continue, et
+pioche un 3.
+
+**Le tour d'Alice**
+
+: Alice est la suivante. Elle peut maintenant passer pour 3 points puisque Éric
+à un 3 mais elle décide de continuer. Elle pioche un 9.
+
+**Le tour de Bernard**
+
+: Bernard à un 10. Il peut passer pour 3 points mais il décide de continuer.
+Il pioche un 5.
+
+**Le tour de Claude**
+
+: Claude est un joueur prudent. Plutôt que de prendre le risque de faire une
+paire avec son 10, Claude passe et prend le 3. Toutes les cartes sont
+défaussées au centre, face cachées, à l'exception du 3 d'Éric que Claude garde
+pour 3 points. (Si Claude avait pioché, et s'il avait obtenu une paire, il
+aurait marqué 10 points au lieu de 3.)
+
+**La donne de la manche suivante**
+
+:   Alice continue de donner jusqu'à ce qu'on atteigne la fin du paquet, ou
+jusqu'à ce qu'un joueur perde.
+
+    Quand il est temps de remélanger, Alice ne mélange que les cartes de la
+défausse (pas les cartes en jeu, ni celles mise de coté pour le score.) Après
+le mélange, elle brûle cinq cartes et reprend la donne là où elle s'est arrêté.
+
+    La partie continue jusqu'à ce qu'un joueur marque 13 points.
+
 
