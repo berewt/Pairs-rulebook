@@ -28,9 +28,9 @@ joueur avec la plus petite carte commence. (Départagez les égalités comme
 indiqué en page 9.)
 
 
-> Utiliser un Carte Coupure
->
-> :  Une carte coupure est tout simplement une carte supplémentaire entièrement
+Utiliser un Carte Coupure
+
+:   Une carte coupure est tout simplement une carte supplémentaire entièrement
 blanche. Placez toujours cette carte au fond du paquet, pour empêcher les
 joueurs de voir la carte du dessous. Quand vous atteignez la fin du paquet,
 vous pouvez alors utiliser la carte coupure pour marquer où le jeu s'est
@@ -38,26 +38,28 @@ interrompu. Replacez la en dessous du paquet après l'avoir mélangé.
 
 Example
 
-: Le joueur A donne. Il mélange le paquet, place la carte coupure en dessous et
+:   Le joueur A donne. Il mélange le paquet, place la carte coupure en dessous et
 brûle 5 carte au centre de la table. Il donne alors une carte à chaque joueur,
 face visible, la table ressemble alors à ça:
 
-> Qui doit donner ?
->
-> :  Un même joueur peut donner pendant toute la partie. On peut également faire
+Qui doit donner ?
+
+:    Un même joueur peut donner pendant toute la partie. On peut également faire
 tourner le rôle de donneur. La position du donneur est en fait sans importance
 puisque le premier joueur sera déterminé par la plus petite carte.
 
 
-> Scores Limites
->
-> :  Le score à atteindre pour perdre dépend du nombre de joueurs :
->
-> ------------------- ---- ---- ---- ---- ----
->   Nb. de joueurs      2    3    4    5   6+
->   Score pour perde   31   21   16   13   11
->
->  Table: (la formule: divisez 60 points par le nombre de joueurs, ajoutez 1)
+Scores Limites
+
+:    Le score à atteindre pour perdre dépend du nombre de joueurs :
+
+
+-------------------- ---- ---- ---- ---- ----
+  Nb. de joueurs       2    3    4    5   6+
+  Score pour perdre   31   21   16   13   11
+-------------------- ---- ---- ---- ---- ----
+
+(la formule: divisez 60 points par le nombre de joueurs, ajoutez 1)
 
 **À chaque tour**
 
@@ -94,13 +96,13 @@ retournent pas dans le paquet avant la fin de la partie.
 
 **Remélanger**
 
-: Quand vous atteignez la fin du paquet, remélangez la défausse. Mettez le jeu
+:   Quand vous atteignez la fin du paquet, remélangez la défausse. Mettez le jeu
 pause, mélangez et reprnez la partie où vous l'avez laissée. Pensez bien à
 brûler cinq cartes à chaque fois que vous mélangez.
 
 **Perdre la partie**
 
-: Il n'y a pas de vainqueur, juste un perdant. La partie prend fin quand un
+:   Il n'y a pas de vainqueur, juste un perdant. La partie prend fin quand un
 joueur atteint le score limite (voir le tableau des scores limites ci-dessus).
 Par exemple, dans une partie à 4 joueurs, le perdant est le premier joueur à
 marquer 16 points.
@@ -123,24 +125,24 @@ pioche un 8, il évite donc d'obtenir une paire. Hourra !
 
 **Le tour d'Éric**
 
-: On tourne dans le sens horaire. Éric peut continuer sur son 9, ou passer pour
+:   On tourne dans le sens horaire. Éric peut continuer sur son 9, ou passer pour
 6 points. Passer pour un 6 semble cher payé et continuer pour un 9 n'est pas si
 risqué. (Il reste seulement huit 9 dans le paquet.) Donc Éric continue, et
 pioche un 3.
 
 **Le tour d'Alice**
 
-: Alice est la suivante. Elle peut maintenant passer pour 3 points puisque Éric
+:   Alice est la suivante. Elle peut maintenant passer pour 3 points puisque Éric
 à un 3 mais elle décide de continuer. Elle pioche un 9.
 
 **Le tour de Bernard**
 
-: Bernard à un 10. Il peut passer pour 3 points mais il décide de continuer.
+:   Bernard à un 10. Il peut passer pour 3 points mais il décide de continuer.
 Il pioche un 5.
 
 **Le tour de Claude**
 
-: Claude est un joueur prudent. Plutôt que de prendre le risque de faire une
+:   Claude est un joueur prudent. Plutôt que de prendre le risque de faire une
 paire avec son 10, Claude passe et prend le 3. Toutes les cartes sont
 défaussées au centre, face cachées, à l'exception du 3 d'Éric que Claude garde
 pour 3 points. (Si Claude avait pioché, et s'il avait obtenu une paire, il
@@ -157,4 +159,38 @@ le mélange, elle brûle cinq cartes et reprend la donne là où elle s'est arr�
 
     La partie continue jusqu'à ce qu'un joueur marque 13 points.
 
+## Départager les égalités pour le premier joueur
 
+De nombreuses vairantes de Pairs, y compris les règles de base, utilisent la
+même méthode pour départager les égalités pour décider qui commence. Si deux
+joueurs ou plus ont tiré la même carte de plus petite valeur, donnez une carte
+supplémentaire à chaque joueur à égalité, et utilisez la valeur de ces cartes
+pour les départager.
+
+Si les nouvelles cartes ne départagent pas l'égalité, distribuez de nouvelles
+cartes jusqu'à ce que l'on ait un premier joueur.
+
+Si un joueur obtient une paire pendant ce processus, défaussez la paire et
+piochez une nouvelle carte. Vous ne pouvez pas perdre sur une paire pendant
+la donne mais vous pourrez parfois y défaussez plusieurs cartes !
+
+Exemple : Dans l'exemple ci-dessous, il y a une égalité pour la plus petite
+carte. Les joueurs B et C reçoive alors chacun une carte pour les départager.
+Le joueur B commencera.
+
+INSERER L'EXEMPLE ICI
+
+## Quelques conseils pour le donneur
+
+En tant que donneur, votre tâche est d'assurer que la partie progresse de
+manière fluide. Vous pouvez aider en indiquant à haute voix quelle carte est
+tirée et en vous assurant que les joueurs jouent dans le bon ordre.
+
+Comme indiqué auparavant, il importe peu que le donneur soit toujours la même
+personne ou que ce rôle tourne au cours de la partie. Le premier joueur est
+toujours déterminé par la plus petite carte, et cela n'est pas lié à la
+position du donneur.
+
+Pour une partie équilibrée, assurez vous de toujours donner de *façon
+consistante*. Démarrez par le joueur à votre gauche et donnez les cartes dans
+le sens des aiguilles d'une montre. Procédez de même pour les égalités.

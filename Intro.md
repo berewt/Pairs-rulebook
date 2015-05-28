@@ -1,4 +1,4 @@
-## La présentation de Pairs
+## La genèse de Pairs
 
 Pairs est un jeu de bistro pour 2 à 8 joueurs. Nous l'appelons "jeu de bistro"
 <!-- Review easy to bet on = facile à sortir ? -->
