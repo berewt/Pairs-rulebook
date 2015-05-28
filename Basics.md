@@ -107,7 +107,7 @@ joueur atteint le score limite (voir le tableau des scores limites ci-dessus).
 Par exemple, dans une partie à 4 joueurs, le perdant est le premier joueur à
 marquer 16 points.
 
-## Exemple de jeu
+### Exemple de jeu
 
 Regardez l'example de partie en page 6. Le nom complet des joueur est Alice,
 Bernard, Claude, Denis et Eric (A, B, C, D et e). Voilà un exemple des permiers
@@ -159,7 +159,7 @@ le mélange, elle brûle cinq cartes et reprend la donne là où elle s'est arr�
 
     La partie continue jusqu'à ce qu'un joueur marque 13 points.
 
-## Départager les égalités pour le premier joueur
+### Départager les égalités pour le premier joueur
 
 De nombreuses vairantes de Pairs, y compris les règles de base, utilisent la
 même méthode pour départager les égalités pour décider qui commence. Si deux
@@ -180,7 +180,7 @@ Le joueur B commencera.
 
 INSERER L'EXEMPLE ICI
 
-## Quelques conseils pour le donneur
+### Quelques conseils pour le donneur
 
 En tant que donneur, votre tâche est d'assurer que la partie progresse de
 manière fluide. Vous pouvez aider en indiquant à haute voix quelle carte est
@@ -194,3 +194,77 @@ position du donneur.
 Pour une partie équilibrée, assurez vous de toujours donner de *façon
 consistante*. Démarrez par le joueur à votre gauche et donnez les cartes dans
 le sens des aiguilles d'une montre. Procédez de même pour les égalités.
+
+## Les variantes simples
+
+Dans la veine du "choix du donneur" au poker, voilà quelques variantes pour
+les règles de base de Pairs. Sont incluses les variantes des Paires continues,
+de la Pièce de Huit et des Calamités.
+
+Il s'agit d'un bon point de départ mais nous espérons que vous ferez votre
+propre variante des règles de base et la partagerez avec nous !
+
+### Les Paires Continues
+
+Les **Paires Continues** est une variante légèrement plus stratégique des
+règles initiales. Les règles sont pratiquement les mêmes que les règles de
+base, excepté que quand un joueur obtient une paire ou passe, *seules les
+cartes de ce joueur sont défaussées*. Les autres joueurs gardent leurs cartes
+en jeu et ce joueur est toujours dans la partie, mais avec une pile vide.
+
+En fait, cette variante consiste en une longue manche unique au lieu de
+plusieurs manches courtes.
+
+Quelques précisions sont nécessaires pour les Paires Continues :
+
+1. Quand vous passez, vous pouvez prendre *n'importe quelle carte en jeu* (pas
+nécessairement la plus petite.)
+2. Quand vous n'avez pas de carte, vous devez *toujours continuer*.
+
+La variante des Paires Continues est incluse en marge des règles de bases dans
+tous les paquets de Pairs, car nous pensons que c'est une variante que tout le
+monde devrait jouer. Décider quand passer et quelle carte prendre peut devenir
+assez intéressant.
+
+Par exemple, imaginons que vous ayez un 3 et que la plus petite carte des
+autres joueurs soit un 4. Toutes les autres cartes en jeu sont des 7 ou plus.
+
+Si vous passez et encaissez votre propre 3, ça laisse le 4 en jeu.
+
+Si vous passez et prenez le 4, vous défaussez votre main, retirant du jeu le 3
+et le 4 et laissant vos adverssaires dans une situation plus délicate.
+Maintenant leur meilleure choix s'ils passent est de prendre 7 points, ce qui
+va les poussez plus vraissemblablement à piocher à la place.
+
+### La Pièce de Huit
+
+Cette variante très simple a été introduite dans le paquet Pirate par Brett
+Bean. Elle peut être juée avec le Pairs de base ou avec les Paires Continues,
+et probablement avec toutes les autres règles également. Nous sommes d'ailleurs
+très curieux de savoir si elles marchent avec les règles de Port !
+
+Les 8 sont spéciaux. Si vous avez un 8, à la place de continuez, vous pouvez
+défaussez le 8 et prendre 2 cartes.
+
+Note: Si la première carte forme une paire, vous sortant du jeu, vous ne
+pouvez pas piochez la seconde. Ce point n'est important que pour les Paires
+Continues.
+
+### Les Calamités
+
+Le paquet de la République (Commonwealth) représente sept calamités sur les
+cartes 7 (le Feu, la Mort, les Querelles, etc.). Cela fait de ce paquet le
+paquet idéal pour la variante des Calamités, même si elle peut être jouée avec
+n'importe quel paquet.
+
+Dans cette variante de Pairs, les Calamités attirent l'attention. Il y a deux
+règles qui s'appliquent pour tout joueur qui les a :
+
+1. Les 7 sont plus petits que les 1 pour décider qui commence.
+2. Si vous piochez un 7, c'est de nouveau votre tour. (Dans les Paires
+Continues, cela est vrai même si le 7 vous donne une paire, auquel cas vous
+défaussez vos cartes et piochez immédiatement une nouvelle carte.)
+
+Il y a un rumeur selon laquelle les 7 cartes calamités sont en fait basés sur
+les sept Chandrian, un groupes légendaires d'être mauvais. Mais vous ne
+trouverez jamais quiconque dans le Monde des Quatre Coins pour parler de cela.
