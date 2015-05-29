@@ -1,6 +1,6 @@
 ### Macros
 
-INPUT = Credits.md Intro.md Basics.md
+INPUT = Credits.md Intro.md Basics.md Faceup.md
 
 OUTPUT = output
 
