@@ -252,7 +252,7 @@ Continues.
 
 ### Les Calamités
 
-Le paquet de la République (Commonwealth) représente sept calamités sur les
+Le paquet de la République (*Commonwealth*) représente sept calamités sur les
 cartes 7 (le Feu, la Mort, les Querelles, etc.). Cela fait de ce paquet le
 paquet idéal pour la variante des Calamités, même si elle peut être jouée avec
 n'importe quel paquet.
@@ -266,5 +266,65 @@ Continues, cela est vrai même si le 7 vous donne une paire, auquel cas vous
 défaussez vos cartes et piochez immédiatement une nouvelle carte.)
 
 Il y a un rumeur selon laquelle les 7 cartes calamités sont en fait basés sur
-les sept Chandrian, un groupes légendaires d'être mauvais. Mais vous ne
+les sept Chandrian, un groupes légendaires d'être maléfiques. Mais vous ne
 trouverez jamais quiconque dans le Monde des Quatre Coins pour parler de cela.
+
+## Le Port
+
+**Le Port** a été introduit avec le paquet **Pirate**, illustré par Brett Bean.
+Port est semblable à Pairs mais avec l'ajout de la possibilité de vérouiller
+votre main.
+
+**Nombre de joueurs**
+
+:   2 à 7
+
+**Equipement**
+
+:   Un jeu de Pairs et un moyen de compter les points.
+
+**Port** se jouent en plusieurs manches, le score est conservé d'une manche à
+l'autre. Ici, ont cherche à marquer des points; le premier joueur à 21 points
+gagne.
+
+**Pour commencer**
+
+:   Mélanger le paquer et brulez cinq cartes. (Vous pouvez faire plusieurs
+manches avec le même paquet, comme dans Pairs.)
+
+**À chaque manche**
+
+:   Donnez une carte à chaque joueur face visible. La plus petite carte
+commence, départagez les égalités comme dans Pairs.
+
+**À chaque tour**
+
+:   À votre tour, vous pouvez continuer ou bloquer votre pile. Si vous bloquez,
+vous ne recevrez plus de cartes pendant cette manche. Si vous continuez, vous
+allez chercher à avoir plus de points sans obtenir de paire. Une paire vous
+élimine, et vous ne marquez aucun point.
+
+    Une manche continue jusqu'à ce que tout le monde ait bloqué ou se soit fait
+éliminé.
+
+**Les points**
+
+:   Le joueur avec les plus grand nombre de points dans sa pile (en faisant
+la somme de ses cartes) marque N points, où N est le nombre de joueurs.
+(Par exemple, 4 points pour une partie à 4 joueurs.)
+
+    Le second plus gros total marque N-1 points, et ainsi de suite, jusqu'à 1
+point pour la plus petite somme (si personne n'est éliminé).
+
+    Les joueurs éliminés ne marquent pas de points. S'il y a une égalité pour
+n'importe quelle place, joueurs à égalités maquent le plus gros montant de
+points.
+
+    Par exemple, dans une partie à 5 joueurs, avec des sommes de 23, 22, 22, 17
+et éliminé, les joueurs gagnent respectivement 5, 4, 4, 2 et 0 points.
+
+    Quand la manche est terminée, défaussez toutes les cartes et donnez à
+    nouveau, et continuez de jouer jusqu'à ce qu'un joueur atteigne 21 ou plus.
+    S'il y a une égalité (plusieurs joueurs égalité à 21 points ou plus), ces
+    joueurs jouent une manche supplémentaires.
+
