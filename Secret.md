@@ -186,4 +186,97 @@ une paire.
     laissant toute pièces restantes après un partage équitable pour la prochaine
     partie.
 
+**Les Monstres**
+
+**Les Monstres** est une règle de Pairs basé sur le meilleur jeu de poker avec
+choix au donneur, Frankenstein. Les monstres ne fonctionne pas exactement de la
+même manière, puisqu'il ne s'agit pas de poker mais il procure un peu les mêmes
+sensations.
+
+Les monstres a été introduit dans le paquets des **Êtres des profondeurs**,
+illustré par **John Kovalic**
+
+**Nombre de joueurs**
+
+:   4 à 8
+
+**Matériel nécessaire**
+
+:  Un paquet de Pairs et des pièces ou des jetons pour miser.
+
+**Aperçu**
+
+:   Les monstres est un jeu de mise à part entière, similaire au poker, même
+si une simple partie peut durer plusieurs manches. La donne passe au joueur de
+gauche après chaque partie (quand le pot est distribué). Cela veut dire que le
+même joueur peut jouer en premier pendant plusieurs manches. Le jeu s'équilibre
+après plusieurs parties.
+
+**Pour commencer**
+
+:   Démarrez en payant une mise initiale au pot. Si vous jouez à 4 ou 5, la mise
+initiale est de 2 pièces. À 6 ou plus, la mise est de 1 pièce. (La mise est payée
+uniquement à la première manche de chaque partie.)
+
+    Mélangez le paquet et donnez six cartes à chaque joueur. Le joueur à gauche
+    du donneur commence.
+
+**Tour de jeu**
+
+:   Chaque joueur joue une fois à son tour. À votre tour, vous pouvez défausser
+    de zéro à trois cartes, ou passer. Vous n'êtes pas autorisé à conservez une
+    main qui contient une paire. Vous pouvez vouloir passer dans d'autres
+    circonstances également, en fonction des circonstances.
+
+    Vos cartes défaussez vont face cachée au milieu de la table, où elles
+    forment la main du monstre. Les cartes d'un joueur qui passe ne vont pas
+    au monstre, elles sont retirez définitivement de la partie.
+
+**La confrontation**
+
+:   Après que chque joueur a joué, il y a une confrontation pour la meilleure
+main. Ensuite, *la plus haute main* doit ensuite affronter le monstre.
+    Quand un joueur affronte le monstre, il doit le vaincre pour gagner le pot.
+    Sinon, si le joueur perd, il paye 5 pièces et est sorti du jeu. (Le Monstre
+    bat le joueur en cas d'égalité parfaite.)
+
+> **Définition de la Plus Haute Main**
+>
+> :   Tout joueur avec une paire est une main perdante qui ne peut pas aller à
+>     la confrontation.
+>
+>     Parmi les mains de la confrontation, on compare la plus haute carte, la
+>     seconde plus haute carte, et ainsi de suite. La meilleur main possible
+>     est 10-9-8-7-6-5. Une carte est mieux que rien, donc une main 10-9-8-7-4
+>     est meilleure que juste 10-8-7.
+>
+>    C'est similaire à la comparaison des mains de poker pour la plus grosse
+>    carte, à part qu'il n'y a pas de limite sur le nombre de cartes en jeu, et
+>    qu'il importe peu que les cartes soit en séquence ou non.
+>    Le monstre suit les mêmes règles, mais ignore les paires. Traiter le monstre
+>    Comme s'il avait une carte de chaque rang.
+
+**Manche suivante**
+
+:   Si personne ne bat le monstre, mélangez le paquet et jouez une nouvelle manche
+    avec les joueurs survivants. Les joueurs qui ont passé ou qui ont perdu contre
+    le monstre sont hors-jeu. Le jeu continue jusqu'à ce qu'un joueur batte le
+    monstre ou qu'il ne reste qu'un joueur en jeu.
+
+**Égalités**
+
+:   Deux joueurs qui battent le monstre avec exactement la même main se
+    partagent le pot. Deux joueurs avec exactement la même main qui perdent
+    contre le monstre doivent tous les deux abandonner et payer 5 pièces de
+    pénalité, à moins qu'il soient les seuls joueurs encore en jeu, auquel cas
+    ils payent 5 pièces mais jouent une nouvelle manche.
+
+**Stratégie**
+
+:   Lors des premières manches, vous pouvez vouloir faire profil bas: jouez des
+petites mains et éviter de combattre le monstre. Quand des joueurs quittent le
+jeu, il devient plus simple de se battre pour le pot. Vous auez à expérimenter
+différentes stratégies au fur et à mesure que votre groupe de joueur apprendra
+le rythme du jeu.
+
 
