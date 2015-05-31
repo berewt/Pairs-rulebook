@@ -11,7 +11,7 @@ EXTRA = extra
 RADICAL = $(FILE:.md=)
 
 all:
-	pandoc $(INPUT) $(METADATA) -o $(OUTPUT)/$@.doc
+	pandoc $(INPUT) $(METADATA) -o $(OUTPUT)/$@.html
 
 clean:
 	rm $(OUTPUT)/*

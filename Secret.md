@@ -202,7 +202,7 @@ illustré par **John Kovalic**
 
 **Matériel nécessaire**
 
-:  Un paquet de Pairs et des pièces ou des jetons pour miser.
+:   Un paquet de Pairs et des pièces ou des jetons pour miser.
 
 **Aperçu**
 
@@ -279,4 +279,89 @@ jeu, il devient plus simple de se battre pour le pot. Vous auez à expérimenter
 différentes stratégies au fur et à mesure que votre groupe de joueur apprendra
 le rythme du jeu.
 
+## Régent
+
+**Régent** est un jeu de bliff classique dans l'univers de Genius Girl, pour
+deux joueurs. Il y a une version moderne pour 3 à 6 joueurs, décrite
+ci-dessous.
+
+Régent est apparu dans le paquet **Muse**, aux illustration de **Phil Foglio**
+et **Cheyenne Wright**.
+
+**Nombre de joueurs**
+
+: 2
+
+**Matériel nécessaire**
+
+: Un paquet de Pairs, des pièces ou des jetons pour le score.
+
+**Mise en place**
+
+:   Mélangez le paquet et brulez cinq cartes, comme dans Pairs. d'une manche à
+l'autre, vous pouvez distribuez le reste du paquet pour minimisez les mélanges
+et ensuite recyclez la défausse, comme dans Pairs.
+
+**À chaque manche**
+
+:   Pour commencez la manche, donnez à chaque joueur une main de trois cartes :
+deux faces cachées, une face visible.
+
+    Le joueur avec la plus petite carte face visible commence. Départagez les
+    égalités avec des cartes du paquet, comme dans Pairs.
+
+**Tour de jeu**
+
+:   À votre tour, vous avez les cinq choix suivants : vous pouvez **piocher**,
+    **attaquer**, **donner**, **passer** et **voir**.
+
+**Piocher**
+
+:   Placez une carte du paquet dans votre main, sans la monter.
+
+**Attaquer**
+
+:   Ajoutez une carte du paquet aux cartes visibles de votre adversaire, en
+    espérant qu'il n'obtienne pas de paire.
+
+    Si vous donnez une paire à votre adversaire, vous perdez la manche et payez
+    un nombre de pièces égal à la valeur de la paire. Par exeple, vous payez 8
+    pièces pour une paire de 8.
+
+**Donner**
+
+:   Placez une carte de votre main parmi les cartes faces visibles de votre
+    adversaire. Vous ne pouvez pas donner une paire à votre adversaire, donc
+    vous ne pouvez lui donner qu'une carte qu'il ne possède pas face visible.
+
+**Passer**
+
+:   Abandonner, et payer à votre adversaire la valeur de la plus petite carte
+    face visible. Cela met fin à la manche.
+
+**Voir**
+
+:   Révélez les cartes faces cachées de votre adversaire. Si elles contiennent
+    une paire (dans les cartes faces visibles et cachées), vous gagnez et obtenez
+    la valeur des paires. (S'il y a plusieurs paires, vous gagnez juste la valeur
+    de la plus haute paire.) S'il n'y a pas de paire, vous perdez, et payez la
+    valeur de la plus haute carte.
+
+**Note**
+
+:   Vous ne pouvez pas demander à *voir* un joueur qui n'a plus de cartes, puisque
+    vous perdriez alors automatiquement.
+
+**Fin de manche**
+
+:   La manche s'arrête quand un joueur obtient une paire, passe ou quand un joueur
+demande à voir. Quelque soit la raison, payez la pénalité décrite ci-dessus et
+jouez une nouvelle manche.
+
+**Stratégie**
+
+:   Vous devez videz votre main des paires, et essayez de dévoilez une paire
+    chez un adversaire avant qu'il n'en dévoile une chez vous. Une fois que les
+    joueurs ont saisi le rythme du jeu, le bluff devient un élément important.
+    Cela devrait apparaître cliarement après quelques manches.
 
