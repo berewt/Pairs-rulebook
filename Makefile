@@ -10,8 +10,10 @@ EXTRA = extra
 
 RADICAL = $(FILE:.md=)
 
-all:
-	pandoc $(INPUT) $(METADATA) -o $(OUTPUT)/$@.html
+all: html
+
+html:
+	pandoc $(INPUT) $(METADATA) --standalone -o $(OUTPUT)/Pairs.html
 
 clean:
 	rm $(OUTPUT)/*

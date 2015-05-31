@@ -365,3 +365,24 @@ jouez une nouvelle manche.
     joueurs ont saisi le rythme du jeu, le bluff devient un élément important.
     Cela devrait apparaître cliarement après quelques manches.
 
+### Régent pour 3 à 6 joueurs.
+
+**Résumé**
+
+:   Les options de bases sont les mêmes que pour le jeu à deux. Cependant, un
+    tour ne se déroule pas toujours dans le sens des aiguilles d'une montre.
+
+    Si vous piochez ou passez, c'est au joueur à votre gauche de jouer. Si vous
+    attaquez, donnez, ou demandez à voir le jeu de quelqu'un, le tour passe à ce
+    joueur. (Si le joueur en question est éliminé, c'est au joueur à sa gauche.§)
+
+    Les perdants sont sortis de la manche, leur cartes sont défaussées et le jeu continue jusqu'à ce qu'il ne reste qu'un joueur.
+
+    Si vous attaquez quelqu'un et obtenez une paire, cette paire est défaussée et
+    vous êtes éliminez. Payez à ce joueur la valeur de la paire. Si vous demandez
+    à voir le jeu d'un autre joueur et obtenez une paire, il vous paye et est
+    éliminé. S'il n'a pas de paire, ces cartes restent en jeu. Vous le payé et
+    êtes éliminé.
+
+    Si vous passez, placer votre pénalité au centre. Elle ira au dernier survivant.
+
