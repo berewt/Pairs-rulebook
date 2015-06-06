@@ -6,7 +6,7 @@ d'informations cachées. On appelle un ensemble de cartes faces visibles une
 avec des cartes faces cachées sont disponibles dans les deux prochaines sections.
 
 Cette seciton contient plusieurs variante pour le jeu Pairs face visibles. Par
-coïncidence, toutes ces variantes peuvent être jouées comme un jeu d'argent.
+coïncidence, toutes ces variantes peuvent être jouées comme des jeux d'argent.
 
 Vous n'avez pas besoin de jouer réellement de l'argent pour rendre le jeu
 amusant. À la place, contentez vous de jetons pour compter les scores, et
@@ -76,9 +76,9 @@ vérouille, donnez lui une carte face cachée, placée sa mise initiale.
 Quand un joueur qui a vérouillé est éliminé (car quelqu'un a pioché sans faire
 de paire), retirez sa carte face cachée et mettez sa mise au pot.
 
-## Les règles avec de l'argent
+## Les règles avec mises
 
-Ces variantes pour de l'argent peuvent être utilisé avec le Pairs de base ou
+Ces variantes avec mises peuvent être utilisé avec le Pairs de base ou
 avec les Paires Continues.
 
 **Les règles de Seattle**
