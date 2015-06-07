@@ -271,7 +271,7 @@ trouverez jamais quiconque dans le Monde des Quatre Coins pour parler de cela.
 
 ## Le Port
 
-**Le Port** a été introduit avec le paquet **Pirate**, illustré par Brett Bean.
+**Le Port** a été présenté dans le paquet **Pirate**, illustré par Brett Bean.
 Port est semblable à Pairs mais avec l'ajout de la possibilité de vérouiller
 votre main.
 

@@ -386,3 +386,59 @@ jouez une nouvelle manche.
 
     Si vous passez, placer votre pénalité au centre. Elle ira au dernier survivant.
 
+
+## Les intestins de troll
+
+Avec un tel nom, vous ne serez pas surpris d'apprendre que **les intestins de
+Troll** est de la même famille que le **poker du gobelin**. Une différence
+majeure : vous ne pouvez pas passer, vous allez donc mourir en piochant une
+paire. **Ls intestins de troll** a été introduit dans le paquet **Trolls**,
+avec des dessins de **James Ernest**.
+
+**Nombre de joueurs**
+
+:   3 à 6
+
+**Matériel nécessaire**
+
+:   Un paquet de Pairs et des pièces ou des jetons pour les mises.
+
+**Mise en place**
+
+:   Chaque joueur mise une pièce. Mélangez le paquet et distribuez une maine de
+5 cartes à chaque joueur. Donnez également une carte face visible à chaque
+joueur. La plus petite carte commence, vous départagez les égalités comme dans
+Pairs.
+
+    Les joueurs doivent maintenant placez les cartes de leur main en une pile,
+    en posant les cartes dans l'ordre dans lequel ils veulent les révéler. Une
+    fois votre pile réalisée, vous ne pourrez plus la réarranger (mais vous pouvez toujours regarder son contenu).
+
+**Tour de jeu**
+
+:   En commençant par la plus petite carte, puis dans le sens horaire, les
+joueurs peuvent *Piocher*, *Voler* ou *Acheter*. Chaque action vous fais retourner
+une seule carte face visible.
+
+**Piocher**
+
+:   Retourner (face visible) une carte du paquet.
+
+**Voler**
+
+:   Retourner (face visible) la carte du paquet d'un autre joueur.
+
+**Acheter**
+
+:   Payer une pièce au pot pour retourner face visible une carte de son propre
+paquet.
+
+Si votre nouvelle carte vous donne une paire, vous perdez. Payer au pot un montant
+égal à la valeur de la paire. Par example, si vous obtenez une paire de 4, payez
+4 pièces. Quand vous ètes éliminé, retournet toutes vos cartes faces cachées.
+
+**Victoire**
+
+:   Le pot va au survivant. Il n'y a pas possibilité de passer, donc soit vous
+repartez avec le pot, soit vous mourrez avec une paire.
+

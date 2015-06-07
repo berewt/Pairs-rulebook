@@ -1,6 +1,6 @@
 ### Macros
 
-INPUT = Credits.md Intro.md Basics.md Faceup.md Muses.md Secret.md
+INPUT = Credits.md Intro.md Basics.md Faceup.md Muses.md Secret.md Bidding.md
 
 OUTPUT = output
 
