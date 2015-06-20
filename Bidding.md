@@ -362,7 +362,7 @@ le reste du paquet.
 
 **À chaque tour**
 
-:  Tirer une carte du paquet et placez la sur une des colonnes, de votre côté.
+:   Tirer une carte du paquet et placez la sur une des colonnes, de votre côté.
 Vous ne pouvez pas jouer une carte si sa valeur correspond a celle d'une carte
 de la colonne, y compris celle de la carte cible ou de votre adversaire. La
 manche continue de cette façon jusqu'à ce qu'une carte ne puisse pas être jouée.

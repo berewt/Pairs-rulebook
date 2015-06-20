@@ -1,4 +1,4 @@
-Remerciements
+# Remerciements
 
 Illustrations par Brett Bean, Cheyenne Wright, Echo Chernik, James Ernest,
 John Kovalic, Nate Taylor, Pete Venters, Phil Foglio et Shane Tyree.

@@ -6,6 +6,8 @@ OUTPUT = output
 
 METADATA = Pairs.yaml
 
+CSS = Pairs.css
+
 EXTRA = extra
 
 RADICAL = $(FILE:.md=)
@@ -13,7 +15,11 @@ RADICAL = $(FILE:.md=)
 all: html
 
 html:
-	pandoc $(INPUT) $(METADATA) --standalone -o $(OUTPUT)/Pairs.html
+	pandoc $(INPUT) $(METADATA) -c $(CSS) -s -o $(OUTPUT)/index.html
+	cp $(CSS) $(OUTPUT)
+
+wiki:
+	pandoc $(INPUT) $(METADATA) -s -t dokuwiki -o $(OUTPUT)/index.wk
 
 clean:
 	rm $(OUTPUT)/*
