@@ -166,7 +166,7 @@ sur plusieurs partie. Dans ce dernier cas, jouez jusqu'à ce qu'un joueur
 atteigne 100 points.
 
 
-### Variantes de Chatons
+### Variantes Chatons
 
 En fonction des variantes de règles choisies, vous pouvez jouer à Chaton de 3 à
 6 joueurs. Par exemple, intégrer la variante "doux" vous permet de jouer avec
@@ -210,3 +210,128 @@ joueur la différence entre leur scores.
 
     Par exemple, si le gagnant à 19 points, il gagnera 4 pièces d'un joueur à
     15 points et 6 d'un joueur à 13 points.
+
+## Entreprise
+
+Entreprise est un jeu de mise pour 3 à 8 joueurs. Y récupérer des cartes est
+globalement nefaste, donc le but est de prendra aussi peu de cartes que
+possible, parfois en conspirant avec les autres joueurs. Mais n'ayez confiance
+en personne ! Les joueurs ne sont pas obligés de dire la vérité sur les cartes
+qu'ils jouent. *Entreprise** a été présenté dans le paquet du **Professeur
+Élémentaire**, illustré par Cheyenne Wright.
+
+**Nombre de joueurs**
+
+:   3 à 8
+
+**Matériel nécessaire**
+
+:   Un paquet de Pairs, un moyen pour tenir les scores.
+
+**Résumé**
+
+:   Les joueurs vont jouer plusieurs manches, jouant des cartes et en
+capturant d'autres. Chaque carte que vous capturez vaut un point négatif
+(peu importe son rang), à moins que vous ne capturiez un ensemble complet
+(toutes les cartes d'un rang). Les ensembles complets rapportent des points.
+
+**Mise en place**
+
+:   Mélangez le paquet et formez un tas face caché au centre de
+    la table. Ce tas est nommé "la limace". Le nombre de cartes dans la limace
+    dépend du nombre de joueurs.
+
+    +-------------------+---+---+---+---+---+---+
+    | Nombre de joueurs | 3 | 4 | 5 | 6 | 7 | 8 |
+    +-------------------+---+---+---+---+---+---+
+    | Nombre de cartes  | 4 | 3 | 5 | 7 | 6 | 7 |
+    +-------------------+---+---+---+---+---+---+
+
+    Ensuite, distribuez le reste du paquet aux joueurs. Une fois la limace retiré
+    le nombre de cartes restantes devrait se partager équitablement entre les
+    joueurs.
+
+    Retourner ensuite la limace face visible. Cela formera l'ensmble des cartes
+    disponibles pour la première manche.
+
+**À chaque manche**
+
+:   Chaque joueur choisit une carte de sa main et la joue face cachée. Il
+s'agit de sa mise. Les joueurs sont encouragés à parler des mises qu'ils
+jouent, dans le but de tromper ou de conspirer avec les autres. *(Ne soyez
+pas trop intransigeant avec cette règle ; les discussions de jeux peuvent
+aussi bien transcender ou détruire ce jeu.)* Quand tous les joueurs sont
+prêts, révèlez ces cartes, et résolvez les de la *plus petite à la plus
+haute*.
+
+**La capture**
+
+:   Les cartes mises vont "tirer," En démarrant par la plus basse et
+dans l'ordre croissant. Quand les cartes tirent, elles capturent des
+d'autres cartes au centre de la table, *y compris des autres cartes mise*.
+Si plusieurs mises du même rang sont jouées, ces cartent "ratent leru ciblent"
+et ne capturent rien. (C'est généralement une bonne chose, puisque capturer des
+cartes n'est pas positif.)
+
+    En général, les cartes "capturent par le bas," ce qui signifie qu'elles ne
+    peuvent prendre que des cartes plus petites. Ainsi, par exemple, un 7
+    prendra toutes les cartes inférieur au 7. Cependant, la plus petite carte
+    se comporte différemment. Elle tire en premier, et capture toutes les
+    cartes du plus haut rang présent sur la table (Rappel : cela
+    inclus les cartes du centre et les cartes mise.)
+
+    Mettez de coté les cartes capturées, face visible. Les cartes non-capturées
+    restent au centre de la table pour la manche suivante.
+
+    Jouez jusqu'à ce que votre main soit vide. Il est alors temps de compter
+    les points.
+
+**Score**
+
+:   Chaque carte capturée vaut un point négatif. Cependant, si vous capturez un
+ensemble complet (c'est-à-dire, toutes les cartes d'un même rang), ces cartes
+valent chacune 1 point. De plus, les cartes qui restent au centre peuvent être 
+utilisées par tout le monde, donc si vous avez collecté huit 9 et que le
+dernier 9 est au centre, vous marquez 9 points. Le joueur avec le meilleur score
+gagne.
+
+## Un exemple de partie d'Entreprise
+
+Dans cette partie à 5 joueurs, la limace est 4, 5, 6, 8 et 10.
+
+À la premier manche, les mises sont 2, 3, 4, 5 et 6. Le 2 tire en premier, et
+capture le 10. En remontant les mises, le 3 est le suivant et capture le 2.
+Le 4 capture le 3, et le 5 capture les deux 4. Le 9 attrape les deux 5. Cela
+laisse au centre 6, 6 et 8.
+
+À la seconde manche, les mises sont 5, 5, 7, 9 et 9. Les 5 devraient normalement
+viser le 9, mais ils manquent leur cible puisqu'ils sont à égalité. Ensuite,
+le 7 tire et capture tous les 5 et les 6. Enfin, les 9 sont à égalité et ne
+capturent rien. Cela laisse au centre 7, 8, 9 et 9.
+
+**Exemple de score**
+
+:   Un joueur a capturé un total de 11 cartes, dont tous les 5. Les six
+cartes de séries incomplètes donnent un total de 6 points négatifs et les
+cinq 5 valent +5, soit un score final de -1 point. (Les scores sont souvent
+négatifs)
+
+**Cumuler les scores**
+
+:   Il es tplus intéressant de cumuler les scores sur un nombre prédéterminé
+de manches. Comme les scores peuvent être négatifs, ne fixez pas une limite
+de points à atteindre, vous pourriez ne jamais y arriver.
+
+### Règle optionnelle: la draft
+
+Après la donne, mais avant de révéler la limace, les joueurs peuvent ajuster
+leur main en utilisant un simple système de draft.
+
+Conservez trois cartes de votre main de départ et passez le reste à votre
+gauche. Mettez de côté les cartes que vous conservez et répétez cette opération
+jusqu'à ce qu'il n'y aie plus de cartes à passer.
+
+La draft ne fonctionne que si vous avez un penchant pour la stratégie. Cela
+vous permet d'adapter votre main et d'avoir une idée de ce que les autres
+peuvent avoir.
+
