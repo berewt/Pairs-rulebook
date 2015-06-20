@@ -335,3 +335,49 @@ La draft ne fonctionne que si vous avez un penchant pour la stratégie. Cela
 vous permet d'adapter votre main et d'avoir une idée de ce que les autres
 peuvent avoir.
 
+## Cinq cartes
+
+**Cinq cartes** est une règle simple, pour 2 joueurs, introduite dans le
+paquet super-secret **Troll**.
+
+**Nombre de joueurs**
+
+:   3 à 8
+
+**Matériel nécessaire**
+
+:   Un paquet de Pairs, un moyen pour tenir les scores.
+
+**Mise en place**
+
+:   Mélanger le paquet et distribuez cinq cartes de valeurs différentes au
+centre. (Défaussez toutes cartes d'une valeur déjà présente.) Rangez ces cinq
+cartes de la plus faible à la plus haute, comme dans la ligne centrale de
+l'exemple ci-dessus. Si vous avez du défaussez des cartes, remélangez les dans
+le reste du paquet.
+
+    Choisissez au hasard un premier joueur. Dans les manches suivantes, le
+    joueur qui aura marqué le moins de points à la manche précédente
+    commencera.
+
+**À chaque tour**
+
+:  Tirer une carte du paquet et placez la sur une des colonnes, de votre côté.
+Vous ne pouvez pas jouer une carte si sa valeur correspond a celle d'une carte
+de la colonne, y compris celle de la carte cible ou de votre adversaire. La
+manche continue de cette façon jusqu'à ce qu'une carte ne puisse pas être jouée.
+Cela termine alors la manche, et on passe alors au décompte.
+
+Ci-dessus se trouve un exemple de partie. Dans cet exemple, le joueur du haut
+est en position de gagner les 3, 5, 6 et 9 et le joueur du bas le 7. Cete manche
+se terminerait si un 7 était tiré ; cette carte serait injouable car chaque
+colonne contient un 7.
+
+**Score**
+
+:   Le joueur qui a le plus de point de son côté de la cible marque un nombre de
+point équivalent à la valeur de la cible. Si les joueurs sont à égalité sur une
+colonne, ils se divisent les points, arondis à l'inférieur.
+
+    Marquez vos scores et recommencez. Le gagnant est le premier à 100 points.
+
