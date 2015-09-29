@@ -24,8 +24,8 @@ remélangerez, vous brulerez de nouveau cinq cartes. Cela rend le comptage des
 cartes plus difficile.
 
     Pour démarrer une manche, donnez une carte face visible à chaque joueur. Le
-joueur avec la plus petite carte commence. (Départagez les égalités comme
-indiqué en page 9.)
+    joueur avec la plus petite carte commence. (Départagez les égalités comme
+    indiqué en page 9.)
 
 
 Utiliser un Carte Coupure
@@ -83,7 +83,7 @@ marquer ses points. Vous pouvez choisir cette carte parmi la pile de tous les
 joueurs, pas uniquement la votre.
 
     *Passer peut être un meilleur choix que de continuer, en fonction des
-risques d'obtenir une paire, mais c'est à vous de décider quand le faire.*
+    risques d'obtenir une paire, mais c'est à vous de décider quand le faire.*
 
 **Fin de manche**
 
@@ -92,7 +92,7 @@ toutes les cartes en jeu, face cachées, au centre de la table et distribuez pou
 la manche suivante.
 
     Les joueurs gardent leurs cartes-score de côté, face visible. Ces cartes ne
-retournent pas dans le paquet avant la fin de la partie.
+    retournent pas dans le paquet avant la fin de la partie.
 
 **Remélanger**
 
@@ -120,8 +120,8 @@ tours de jeu.
 prendre 6 points.
 
     Naturellement, il continue. (C'est en général un choix évident au premier
-tour, à moins de commencer avec plusieurs cartes, suite à une égalité.) Denis
-pioche un 8, il évite donc d'obtenir une paire. Hourra !
+    tour, à moins de commencer avec plusieurs cartes, suite à une égalité.)
+    Denis pioche un 8, il évite donc d'obtenir une paire. Hourra !
 
 **Le tour d'Éric**
 
@@ -154,8 +154,9 @@ aurait marqué 10 points au lieu de 3.)
 jusqu'à ce qu'un joueur perde.
 
     Quand il est temps de remélanger, Alice ne mélange que les cartes de la
-défausse (pas les cartes en jeu, ni celles mise de coté pour le score.) Après
-le mélange, elle brûle cinq cartes et reprend la donne là où elle s'est arrêté.
+    défausse (pas les cartes en jeu, ni celles mise de coté pour le score.)
+    Après le mélange, elle brûle cinq cartes et reprend la donne là où elle
+    s'est arrêté.
 
     La partie continue jusqu'à ce qu'un joueur marque 13 points.
 
@@ -305,7 +306,7 @@ allez chercher à avoir plus de points sans obtenir de paire. Une paire vous
 élimine, et vous ne marquez aucun point.
 
     Une manche continue jusqu'à ce que tout le monde ait bloqué ou se soit fait
-éliminé.
+    éliminé.
 
 **Les points**
 
@@ -314,14 +315,14 @@ la somme de ses cartes) marque N points, où N est le nombre de joueurs.
 (Par exemple, 4 points pour une partie à 4 joueurs.)
 
     Le second plus gros total marque N-1 points, et ainsi de suite, jusqu'à 1
-point pour la plus petite somme (si personne n'est éliminé).
+    point pour la plus petite somme (si personne n'est éliminé).
 
     Les joueurs éliminés ne marquent pas de points. S'il y a une égalité pour
-n'importe quelle place, joueurs à égalités maquent le plus gros montant de
-points.
+    n'importe quelle place, joueurs à égalités maquent le plus gros montant
+    de points.
 
     Par exemple, dans une partie à 5 joueurs, avec des sommes de 23, 22, 22, 17
-et éliminé, les joueurs gagnent respectivement 5, 4, 4, 2 et 0 points.
+    et éliminé, les joueurs gagnent respectivement 5, 4, 4, 2 et 0 points.
 
     Quand la manche est terminée, défaussez toutes les cartes et donnez à
     nouveau, et continuez de jouer jusqu'à ce qu'un joueur atteigne 21 ou plus.
