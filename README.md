@@ -1,6 +1,6 @@
 # Traduction du jeu *The Pairs*
 
-Règle originale : http://cheapass.com/sites/default/files/PairsCompanionBook.pdf
+Règle originale : https://cheapass.com/wp-content/uploads/2018/02/PairsCompanionBookWebFeb2018.pdf
 
 1.  [Copyright](Copyright.md)
 2.  [La genèse de Pairs](Intro.md)
