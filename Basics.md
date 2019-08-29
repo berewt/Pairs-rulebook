@@ -5,7 +5,7 @@ utilise un inhabituel paquet de carte "triangulaire". Le paquet contient les
 nombres 1 à 10 avec 1x1, 2x2, 3x3, et ainsi de suite.
 
 Dans le jeu de base, Pairs n'a pas de vainqueur, juste un perdant. Les joueurs
-marquent des points en predes paires (ou en passant) et le premier joueur à
+marquent des points en prenant des paires ou en passant et le premier joueur à
 dépasser un nombre donné de points perd.
 
 Si vous le souhaitez, vous pouvez choisir un gage pour le perdant. Le perdant
